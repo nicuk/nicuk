@@ -39,9 +39,11 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge\&logo=graph\&logoColor=white)
 
-**Cutting-Edge AI Agents**
+**Multi-Agent Orchestration**
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=team&logoColor=white)
 ![DeepAgents](https://img.shields.io/badge/DeepAgents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 ![M3Agent](https://img.shields.io/badge/M3--Agent-4ECDC4?style=for-the-badge&logo=bytedance&logoColor=white)
+![ACP](https://img.shields.io/badge/ACP-9B59B6?style=for-the-badge&logo=protocol&logoColor=white)
 ![Qodo](https://img.shields.io/badge/Qodo_Aware-6C5CE7?style=for-the-badge&logo=search&logoColor=white)
 
 **Automation & DevOps**
