@@ -12,10 +12,10 @@
 
 **Lead AI Architect** I design and deliver enterprise-grade AI solutions for startups, SMEs, and enterprises. My focus: multi-agent architectures, RAG SaaS platforms, and AI-driven automation that create measurable ROI.
 
-* 🏗 **Strategic AI Architecture** – Multi-agent systems, RAG platforms, automation workflows that scale
-* 💼 **Consulting Founder** – Delivering **\$5K–\$30K AI implementations** with measurable business impact
-* 🚀 **Platform Builder** – Architecting SaaS solutions that last, not just features that ship
-* 🎯 **Business-First Approach** – Every technical decision mapped to ROI, cost reduction, competitive advantage
+* 🏗 **Advanced AI Architecture** – Multi-agent systems (LangGraph, DeepAgents, M3-Agent), RAG platforms, intelligent automation
+* 💼 **Consulting Founder** – Delivering **\$5K–\$30K AI implementations** with bleeding-edge technology and measurable business impact
+* 🚀 **Innovation-First Builder** – Implementing tomorrow's AI tools today, multi-modal agents, production workflows
+* 🎯 **Strategic Technology Adoption** – Early access to frameworks that give clients 6-12 month competitive advantages
 
 ---
 
@@ -23,22 +23,30 @@
 
 <div align="center">  
 
-**AI / Orchestration**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge\&logo=graph\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-
-**Infrastructure**
+**AI & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0F6CFF?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-**Frontend / Backend**
+**Frontend & Deployment**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+**AI & LLM Integration**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge\&logo=graph\&logoColor=white)
+
+**Cutting-Edge AI Agents**
+![DeepAgents](https://img.shields.io/badge/DeepAgents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![M3Agent](https://img.shields.io/badge/M3--Agent-4ECDC4?style=for-the-badge&logo=bytedance&logoColor=white)
+![Qodo](https://img.shields.io/badge/Qodo_Aware-6C5CE7?style=for-the-badge&logo=search&logoColor=white)
+
+**Automation & DevOps**
+![n8n](https://img.shields.io/badge/n8n-0F6CFF?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 </div>  
 
