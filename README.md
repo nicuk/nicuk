@@ -1,9 +1,9 @@
 
 
-# 🚀 AI Architect & Consulting Founder
+# 🚀 AI Architect & Consulting Co-Founder
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=AI+Architect+%7C+Multi-Agent+Systems;Enterprise+RAG+%26+Automation;Founder+%7C+Consultant+%7C+Builder" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=AI+Architect+%7C+Multi-Agent+Systems;Enterprise+RAG+%26+Automation;Co-Founder+%7C+Consultant+%7C+Builder" alt="Typing SVG" />  
 </div>  
 
 ---
