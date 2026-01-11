@@ -19,6 +19,22 @@
 
 ---
 
+## 📂 Featured Portfolio
+
+<div align="center">
+
+[![AI Architecture Portfolio](https://img.shields.io/badge/📘_AI_Architecture_Portfolio-View_Case_Studies-blue?style=for-the-badge)](https://github.com/nicuk/ai-architecture-portfolio)
+
+</div>
+
+| Project | Impact | Tech |
+|:--------|:-------|:-----|
+| 🎮 **SculptAI** | 70% dev time reduction | Multi-Agent, GPT-4, Unity |
+| 📊 **ELAI** | 336% engagement, 40% cost savings | FastAPI, Gemini, Redis |
+| 📋 **Compliance AI** | 99.8% accuracy | React 19, Flask, Gemini |
+| 🔐 **TAU Network** | 200K+ users | Supabase, PostgreSQL |
+
+➡️ [**View Full Architecture Portfolio & ADRs**](https://github.com/nicuk/ai-architecture-portfolio)
 ## 🛠️ My Stack
 
 <div align="center">  
