@@ -32,7 +32,7 @@
 | 🎮 **SculptAI** | 70% dev time reduction | Multi-Agent, GPT-4, Unity |
 | 📊 **ELAI** | 336% engagement, 40% cost savings | FastAPI, Gemini, Redis |
 | 📋 **Compliance AI** | 99.8% accuracy | React 19, Flask, Gemini |
-| 🔐 **TAU Network** | 200K+ users | Supabase, PostgreSQL |
+| 🔐 **TAU Network** | 15K+ users | Supabase, PostgreSQL |
 
 ➡️ [**View Full Architecture Portfolio & ADRs**](https://github.com/nicuk/ai-architecture-portfolio)
 ## 🛠️ My Stack
