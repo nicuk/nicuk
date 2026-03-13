@@ -23,11 +23,21 @@
 
 <div align="center">
 
-[![AI Architecture Portfolio](https://img.shields.io/badge/📘_AI_Architecture_Portfolio-View_Case_Studies-blue?style=for-the-badge)](https://github.com/nicuk/ai-architecture-portfolio)
-&nbsp;&nbsp;
 [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_&_AI_Assistant-nicchin.com-00D9FF?style=for-the-badge)](https://nicchin.com)
+&nbsp;&nbsp;
+[![AI Architecture Portfolio](https://img.shields.io/badge/📘_Case_Studies_&_ADRs-Architecture_Portfolio-blue?style=for-the-badge)](https://github.com/nicuk/ai-architecture-portfolio)
 
 </div>
+
+### 🔥 Flagship: DocsFlow — Multi-Tenant Document Intelligence SaaS
+
+> Production RAG platform with hybrid search, 4-layer tenant isolation, and 3-tier LLM failover. Open source, 1,188 commits.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-docsflow.app-00D9FF?style=for-the-badge)](https://docsflow.app)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/Source_Code-1,188_commits-181717?style=for-the-badge&logo=github)](https://github.com/nicuk/docsflow)
+
+---
 
 | Project | Impact | Tech |
 |:--------|:-------|:-----|
@@ -38,7 +48,7 @@
 | 🤖 **Social Automation** | 3000x engagement improvement | Chrome Extension, TypeScript |
 | 📈 **Trading Analytics** | 45% portfolio improvement | TypeScript, Multi-Model LLM |
 
-➡️ [**View Full Architecture Portfolio & Case Studies**](https://github.com/nicuk/ai-architecture-portfolio)
+➡️ [**View All Case Studies & Architecture Decisions**](https://github.com/nicuk/ai-architecture-portfolio)
 
 ---
 
