@@ -3,7 +3,7 @@
 # 🚀 Lead AI Architect & Fractional CTO
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Lead+AI+Architect+%26+Fractional+CTO;Multi-Agent+Systems+%7C+RAG+Platforms;12+Production+AI+Systems+Delivered;96.8%25+RAG+Accuracy+%7C+%24350K+Seed+Raised" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Lead+AI+Architect+%26+Fractional+CTO;Multi-Agent+Systems+%7C+RAG+Platforms;13+Production+AI+Systems+Delivered;96.8%25+RAG+Accuracy+%7C+%24350K+Seed+Raised" alt="Typing SVG" />  
 </div>  
 
 ---
@@ -41,8 +41,10 @@
 
 | Project | Impact | Tech |
 |:--------|:-------|:-----|
+| 🔍 **AI Codebase Audit SaaS** | 3-min audits replacing 2-week cycles — [Live](https://systemaudit.dev) | Next.js 16, Claude 4.6, Stripe |
 | 🎮 **SculptAI** | 70% dev time reduction, $350K seed raised | Multi-Agent, GPT-4, Unity |
 | 📊 **ELAI** | 336% engagement, 40% cost savings | FastAPI, Gemini, Redis |
+| 🎨 **AI Marketing Platform** | 98% voice fidelity, 15–20 hrs/week recovered | Next.js 14, Claude, pgvector |
 | 📋 **Compliance AI** | 99.8% accuracy, 75% time reduction | React 19, Flask, Gemini |
 | 🔐 **TAU Network** | 15K+ users served | Supabase, PostgreSQL |
 | 🤖 **Social Automation** | 3000x engagement improvement | Chrome Extension, TypeScript |
@@ -92,7 +94,7 @@
 
 <div align="center">
 
-| 🏗️ 12 Production AI Systems | 🤖 20-Agent Ensemble System | 🎯 96.8% RAG Accuracy |
+| 🏗️ 13 Production AI Systems | 🤖 20-Agent Ensemble System | 🎯 96.8% RAG Accuracy |
 |:---:|:---:|:---:|
 | Delivered & running | With Elo rating orchestration | Document intelligence |
 
