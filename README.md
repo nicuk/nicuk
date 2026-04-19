@@ -44,13 +44,29 @@
 | 🔍 **AI Codebase Audit SaaS** | 3-min audits replacing 2-week cycles — [Live](https://systemaudit.dev) | Next.js 16, Claude 4.6, Stripe |
 | 🎮 **SculptAI** | 70% dev time reduction, $350K seed raised | Multi-Agent, GPT-4, Unity |
 | 📊 **ELAI** | 336% engagement, 40% cost savings | FastAPI, Gemini, Redis |
-| 🎨 **AI Marketing Platform** | 98% voice fidelity, 15–20 hrs/week recovered | Next.js 14, Claude, pgvector |
+| 🎨 **AI Marketing Platform** ([simonkenny.app](https://simonkenny.app)) | 98% voice fidelity, 15–20 hrs/week recovered | Next.js 14, Claude, pgvector |
 | 📋 **Compliance AI** | 99.8% accuracy, 75% time reduction | React 19, Flask, Gemini |
 | 🔐 **TAU Network** | 15K+ users served | Supabase, PostgreSQL |
 | 🤖 **Social Automation** | 3000x engagement improvement | Chrome Extension, TypeScript |
 | 📈 **Trading Analytics** | 45% portfolio improvement | TypeScript, Multi-Model LLM |
 
 ➡️ [**View All Case Studies & Architecture Decisions**](https://github.com/nicuk/ai-architecture-portfolio)
+
+<details>
+<summary><b>💡 In plain English — what these systems actually do</b></summary>
+
+<br/>
+
+- **AI Codebase Audit SaaS** — Paste any GitHub link, get a full health report of the code in 3 minutes. Traditionally a 2-week, $5K–$16K job.
+- **SculptAI** — Game studios ship faster. What took 6 developers a month now takes 2 developers a few days.
+- **ELAI** — Scans crypto markets in real-time and surfaces what matters *right now*, 2–3 hours ahead of the herd.
+- **AI Marketing Platform** — Runs the marketing engine for a creative business end-to-end: writes content in the client's exact voice, finds leads, drafts email replies. Reclaims 15–20 hours a week.
+- **Compliance AI** — Reads 150-page regulatory documents and pulls out every obligation, deadline, and risk — with a source citation for every flag.
+- **TAU Network** — Unified login and verification for a Web3 community of 15,000+ users across multiple applications.
+- **Social Automation** — Chrome extension that multiplied a client's social engagement by 3,000×.
+- **Trading Analytics** — Live crypto portfolio dashboard. Cut daily market analysis from 45 minutes down to 10.
+
+</details>
 
 ---
 
