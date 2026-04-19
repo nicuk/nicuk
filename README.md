@@ -12,10 +12,10 @@
 
 **Lead AI Architect & Fractional CTO** — I design and deliver production-grade AI systems for startups, SMEs, and enterprises. My focus: multi-agent architectures, RAG platforms, and AI-driven automation that create measurable ROI.
 
-* 🏗 **Multi-Agent Architecture** – LangGraph, CrewAI orchestration, 20-agent ensemble systems with Elo rating
-* 🧠 **RAG & Document Intelligence** – 96.8% accuracy, hybrid search, pgvector, compliance processing
-* 🚀 **Fractional CTO** – AI strategy, team leadership, and technical direction for growing companies
-* 🎯 **Strategic Technology Adoption** – Early access to frameworks that give clients 6-12 month competitive advantages
+* **Multi-Agent Architecture** — LangGraph, CrewAI orchestration, 20-agent ensemble systems with Elo rating
+* **RAG & Document Intelligence** — 96.8% accuracy, hybrid search, pgvector, compliance processing
+* **Fractional CTO** — AI strategy, team leadership, and technical direction for growing companies
+* **Strategic Technology Adoption** — Early access to frameworks that give clients 6–12 month competitive advantages
 
 ---
 
@@ -29,9 +29,9 @@
 
 </div>
 
-### 🔥 Flagship: DocsFlow — Multi-Tenant Document Intelligence SaaS
+### Flagship: DocsFlow — Multi-Tenant Document Intelligence SaaS
 
-> Production RAG platform with hybrid search, 4-layer tenant isolation, and 3-tier LLM failover. Open source, 1,188 commits.
+> Production document intelligence SaaS with 8-stage hybrid RAG, 4-layer tenant isolation, and 3-tier LLM failover. Open source, 1,188 commits.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-docsflow.app-00D9FF?style=for-the-badge)](https://docsflow.app)
 &nbsp;
