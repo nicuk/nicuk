@@ -44,7 +44,7 @@
 | 🔍 **AI Codebase Audit SaaS** | 3-min audits replacing 2-week cycles — [Live](https://systemaudit.dev) | Next.js 16, Claude 4.6, Stripe |
 | 🎮 **SculptAI** | 70% dev time reduction, $350K seed raised | Multi-Agent, GPT-4, Unity |
 | 📊 **ELAI** | 336% engagement, 40% cost savings | FastAPI, Gemini, Redis |
-| 🎨 **AI Marketing Platform** ([simonkenny.app](https://simonkenny.app)) | 98% voice fidelity, 15–20 hrs/week recovered | Next.js 14, Claude, pgvector |
+| 🎨 **AI Marketing Platform** | 98% voice fidelity, 15–20 hrs/week recovered | Next.js 14, Claude, pgvector |
 | 📋 **Compliance AI** | 99.8% accuracy, 75% time reduction | React 19, Flask, Gemini |
 | 🔐 **TAU Network** | 15K+ users served | Supabase, PostgreSQL |
 | 🤖 **Social Automation** | 3000x engagement improvement | Chrome Extension, TypeScript |
