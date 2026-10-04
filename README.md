@@ -127,6 +127,8 @@ All 13 production systems, with architecture and screenshots: [nicchin.com/portf
 
 <p align="center">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/how-i-build-stacked-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/how-i-build-stacked-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/how-i-build-dark.svg">
     <img src="assets/how-i-build-light.svg" width="100%" alt="Rules and checks feed evidence to an AI layer, which abstains if unsure; only what passes verification reaches production, and every production failure becomes a new rule.">
   </picture>
