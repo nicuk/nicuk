@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=Lead+AI+Architect+%26+Fractional+CTO;Multi-agent+systems+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+AI+security;From+architecture+to+production" alt="Lead AI Architect and Fractional CTO. Multi-agent systems, RAG, MCP, AI security." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=Lead+AI+Architect+%26+Fractional+CTO;Multi-agent+systems+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+AI+security;From+architecture+to+production" alt="Lead AI Architect and Fractional CTO. Multi-agent systems, RAG, MCP, AI security." />
 
 **I design and build production AI systems end to end: the architecture, the code, the security and the tests that prove they work.**
 
 This page is the technical evidence behind my [website](https://nicchin.com) and CV. Every project below links to the code, the benchmark or the write-up.
+
+**Hiring a Lead AI Architect, or need a fractional CTO?** [LinkedIn](https://www.linkedin.com/in/nic-chin) · [Email](mailto:nic.chin@nicchin.com)
 
 </div>
 
@@ -18,7 +20,7 @@ This page is the technical evidence behind my [website](https://nicchin.com) and
 |:---:|:---:|:---:|
 | Delivered and running | 38,319 predictions scored against real outcomes | Architecture to production |
 
-| 💰 $350K seed raised | 🔐 15K+ users | 🎓 Microsoft, Google & IBM |
+| 💰 $350K seed raised | 🌐 15K+ users | 🎓 Microsoft, Google & IBM |
 |:---:|:---:|:---:|
 | SculptAI | TAU Mine | AI certified |
 
