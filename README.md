@@ -125,12 +125,12 @@ All 13 production systems, with architecture and screenshots: [nicchin.com/portf
 
 ## 🧭 How I build
 
-```mermaid
-flowchart LR
-    A["Rules and checks<br/>permissions, thresholds,<br/>schemas, scanners"] -->|"evidence"| B["AI layer<br/>reasoning, synthesis,<br/>language"]
-    B -->|"says 'not sure' when<br/>evidence is weak"| C["Verification<br/>benchmarks and<br/>self-tests"]
-    C --> D["Production<br/>isolation, failover,<br/>cost and security"]
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/how-i-build-dark.svg">
+    <img src="assets/how-i-build-light.svg" width="100%" alt="Rules and checks feed evidence to an AI layer, which abstains if unsure; only what passes verification reaches production, and every production failure becomes a new rule.">
+  </picture>
+</p>
 
 <details>
 <summary><b>For technical reviewers: decisions worth asking me about</b></summary>
